@@ -1,0 +1,22 @@
+{
+  "name": "jadwal-ramadhan",
+  "version": "1.0.0",
+  "description": "Jadwal Ramadhan (Imsak, Subuh, Maghrib/Buka) during Ramadhan based on user city or user can search any location in Indonesia",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuryaditriputraR/jadwal-ramadhan.git"
+  },
+  "keywords": [
+    "Ramadhan"
+  ],
+  "author": "msuryaditriputraR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuryaditriputraR/jadwal-ramadhan/issues"
+  },
+  "homepage": "https://github.com/msuryaditriputraR/jadwal-ramadhan#readme"
+}
