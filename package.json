@@ -4,7 +4,7 @@
   "description": "Jadwal Ramadhan (Imsak, Subuh, Maghrib/Buka) during Ramadhan based on user city or user can search any location in Indonesia",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "npx @tailwindcss/cli -i ./src/css/tailwind.css -o ./src/css/style.css --watch"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/msuryaditriputraR/jadwal-ramadhan/issues"
   },
-  "homepage": "https://github.com/msuryaditriputraR/jadwal-ramadhan#readme"
+  "homepage": "https://github.com/msuryaditriputraR/jadwal-ramadhan#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
+  }
 }
