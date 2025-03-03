@@ -21,6 +21,8 @@
   "homepage": "https://github.com/msuryaditriputraR/jadwal-ramadhan#readme",
   "devDependencies": {
     "@tailwindcss/cli": "^4.0.9",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^4.0.9"
   }
 }
